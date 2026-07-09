@@ -1,0 +1,11 @@
+C:\Users\dalbenjumea\Documents\Personal\Maker\MakerTest\SolidarityGrid.Domain\bin\Debug\net8.0\SolidarityGrid.Domain.deps.json
+C:\Users\dalbenjumea\Documents\Personal\Maker\MakerTest\SolidarityGrid.Domain\bin\Debug\net8.0\SolidarityGrid.Domain.dll
+C:\Users\dalbenjumea\Documents\Personal\Maker\MakerTest\SolidarityGrid.Domain\bin\Debug\net8.0\SolidarityGrid.Domain.pdb
+C:\Users\dalbenjumea\Documents\Personal\Maker\MakerTest\SolidarityGrid.Domain\obj\Debug\net8.0\SolidarityGrid.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dalbenjumea\Documents\Personal\Maker\MakerTest\SolidarityGrid.Domain\obj\Debug\net8.0\SolidarityGrid.Domain.AssemblyInfoInputs.cache
+C:\Users\dalbenjumea\Documents\Personal\Maker\MakerTest\SolidarityGrid.Domain\obj\Debug\net8.0\SolidarityGrid.Domain.AssemblyInfo.cs
+C:\Users\dalbenjumea\Documents\Personal\Maker\MakerTest\SolidarityGrid.Domain\obj\Debug\net8.0\SolidarityGrid.Domain.csproj.CoreCompileInputs.cache
+C:\Users\dalbenjumea\Documents\Personal\Maker\MakerTest\SolidarityGrid.Domain\obj\Debug\net8.0\SolidarityGrid.Domain.dll
+C:\Users\dalbenjumea\Documents\Personal\Maker\MakerTest\SolidarityGrid.Domain\obj\Debug\net8.0\refint\SolidarityGrid.Domain.dll
+C:\Users\dalbenjumea\Documents\Personal\Maker\MakerTest\SolidarityGrid.Domain\obj\Debug\net8.0\SolidarityGrid.Domain.pdb
+C:\Users\dalbenjumea\Documents\Personal\Maker\MakerTest\SolidarityGrid.Domain\obj\Debug\net8.0\ref\SolidarityGrid.Domain.dll

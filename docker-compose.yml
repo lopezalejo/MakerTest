@@ -1,0 +1,113 @@
+# Zona horaria y cultura compartidas por todos los servicios nodos.
+x-regional-env: &regional-env
+  TZ: America/Bogota
+  LANG: es_CO.UTF-8
+  LC_ALL: es_CO.UTF-8
+  DOTNET_SYSTEM_GLOBALIZATION_INVARIANT: "false"
+  Regional__TimeZoneId: America/Bogota
+  Regional__Culture: es-CO
+  Regional__UseUtcForPersistence: "true"
+
+services:
+  sqlserver:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    container_name: solidarity-sqlserver
+    environment:
+      <<: *regional-env
+      ACCEPT_EULA: "Y"
+      MSSQL_SA_PASSWORD: "123456789abcd"
+    ports:
+      - "1433:1433"
+    volumes:
+      - sqlserver-data:/var/opt/mssql
+      - ./docker/init-db.sql:/docker-entrypoint-initdb.d/init-db.sql
+    healthcheck:
+      test: ["CMD-SHELL", "bash -c '</dev/tcp/localhost/1433' || exit 1"]
+      interval: 10s
+      timeout: 5s
+      retries: 20
+      start_period: 30s
+    networks:
+      - solidarity-mesh
+
+  node-a:
+    build: .
+    container_name: payment-node-a
+    hostname: node-a
+    environment:
+      <<: *regional-env
+      NODE_ID: node-a
+      PEERS: http://node-b:8080,http://node-c:8080
+      PEER_TOKEN: mesh-secret
+      API_KEY: makertest-api-key
+      ConnectionStrings__SolidarityGrid: Server=sqlserver,1433;Database=SolidarityGrid;User Id=sa;Password=123456789abcd;TrustServerCertificate=True;
+    ports:
+      - "8081:8080"
+    depends_on:
+      sqlserver:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8080/health"]
+      interval: 5s
+      timeout: 3s
+      retries: 15
+      start_period: 20s
+    networks:
+      - solidarity-mesh
+
+  node-b:
+    build: .
+    container_name: payment-node-b
+    hostname: node-b
+    environment:
+      <<: *regional-env
+      NODE_ID: node-b
+      PEERS: http://node-a:8080,http://node-c:8080
+      PEER_TOKEN: mesh-secret
+      API_KEY: makertest-api-key
+      ConnectionStrings__SolidarityGrid: Server=sqlserver,1433;Database=SolidarityGrid;User Id=sa;Password=123456789abcd;TrustServerCertificate=True;
+    ports:
+      - "8082:8080"
+    depends_on:
+      sqlserver:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8080/health"]
+      interval: 5s
+      timeout: 3s
+      retries: 15
+      start_period: 20s
+    networks:
+      - solidarity-mesh
+
+  node-c:
+    build: .
+    container_name: payment-node-c
+    hostname: node-c
+    environment:
+      <<: *regional-env
+      NODE_ID: node-c
+      PEERS: http://node-a:8080,http://node-b:8080
+      PEER_TOKEN: mesh-secret
+      API_KEY: makertest-api-key
+      ConnectionStrings__SolidarityGrid: Server=sqlserver,1433;Database=SolidarityGrid;User Id=sa;Password=123456789abcd;TrustServerCertificate=True;
+    ports:
+      - "8083:8080"
+    depends_on:
+      sqlserver:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8080/health"]
+      interval: 5s
+      timeout: 3s
+      retries: 15
+      start_period: 20s
+    networks:
+      - solidarity-mesh
+
+volumes:
+  sqlserver-data:
+
+networks:
+  solidarity-mesh:
+    driver: bridge

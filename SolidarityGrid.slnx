@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/MakerTest/">
+    <File Path=".dockerignore" />
+    <File Path="docker-compose.yml" />
+    <File Path="Dockerfile" />
+    <File Path="README.md" />
+    <Project Path="MakerTest/SolidarityGrid.Api/SolidarityGrid.Api.csproj" />
+    <Project Path="MakerTest/SolidarityGrid.Application/SolidarityGrid.Application.csproj" />
+    <Project Path="MakerTest/SolidarityGrid.Domain/SolidarityGrid.Domain.csproj" />
+    <Project Path="MakerTest/SolidarityGrid.Infrastructure/SolidarityGrid.Infrastructure.csproj" />
+  </Folder>
+</Solution>

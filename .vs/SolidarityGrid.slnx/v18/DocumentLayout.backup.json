@@ -1,0 +1,673 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dalbenjumea\\Documents\\Personal\\Maker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0777EDC-B2CB-EDFD-2A52-9D9E068991F6}|MakerTest\\SolidarityGrid.Application\\SolidarityGrid.Application.csproj|c:\\users\\dalbenjumea\\documents\\personal\\maker\\makertest\\solidaritygrid.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0777EDC-B2CB-EDFD-2A52-9D9E068991F6}|MakerTest\\SolidarityGrid.Application\\SolidarityGrid.Application.csproj|solutionrelative:makertest\\solidaritygrid.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0777EDC-B2CB-EDFD-2A52-9D9E068991F6}|MakerTest\\SolidarityGrid.Application\\SolidarityGrid.Application.csproj|c:\\users\\dalbenjumea\\documents\\personal\\maker\\makertest\\solidaritygrid.application\\payments\\paymentprocessingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0777EDC-B2CB-EDFD-2A52-9D9E068991F6}|MakerTest\\SolidarityGrid.Application\\SolidarityGrid.Application.csproj|solutionrelative:makertest\\solidaritygrid.application\\payments\\paymentprocessingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE0D0B6-0231-7FAC-ABC0-9447B2CC1D3F}|MakerTest\\SolidarityGrid.Infrastructure\\SolidarityGrid.Infrastructure.csproj|c:\\users\\dalbenjumea\\documents\\personal\\maker\\makertest\\solidaritygrid.infrastructure\\upservice\\databaseinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE0D0B6-0231-7FAC-ABC0-9447B2CC1D3F}|MakerTest\\SolidarityGrid.Infrastructure\\SolidarityGrid.Infrastructure.csproj|solutionrelative:makertest\\solidaritygrid.infrastructure\\upservice\\databaseinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{573C7E83-C649-51EC-81C5-EA362F0B6943}|MakerTest\\SolidarityGrid.Api\\SolidarityGrid.Api.csproj|c:\\users\\dalbenjumea\\documents\\personal\\maker\\makertest\\solidaritygrid.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{573C7E83-C649-51EC-81C5-EA362F0B6943}|MakerTest\\SolidarityGrid.Api\\SolidarityGrid.Api.csproj|solutionrelative:makertest\\solidaritygrid.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE0D0B6-0231-7FAC-ABC0-9447B2CC1D3F}|MakerTest\\SolidarityGrid.Infrastructure\\SolidarityGrid.Infrastructure.csproj|c:\\users\\dalbenjumea\\documents\\personal\\maker\\makertest\\solidaritygrid.infrastructure\\mesh\\reconciliationbackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE0D0B6-0231-7FAC-ABC0-9447B2CC1D3F}|MakerTest\\SolidarityGrid.Infrastructure\\SolidarityGrid.Infrastructure.csproj|solutionrelative:makertest\\solidaritygrid.infrastructure\\mesh\\reconciliationbackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE0D0B6-0231-7FAC-ABC0-9447B2CC1D3F}|MakerTest\\SolidarityGrid.Infrastructure\\SolidarityGrid.Infrastructure.csproj|c:\\users\\dalbenjumea\\documents\\personal\\maker\\makertest\\solidaritygrid.infrastructure\\mesh\\heartbeatbackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE0D0B6-0231-7FAC-ABC0-9447B2CC1D3F}|MakerTest\\SolidarityGrid.Infrastructure\\SolidarityGrid.Infrastructure.csproj|solutionrelative:makertest\\solidaritygrid.infrastructure\\mesh\\heartbeatbackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{573C7E83-C649-51EC-81C5-EA362F0B6943}|MakerTest\\SolidarityGrid.Api\\SolidarityGrid.Api.csproj|c:\\users\\dalbenjumea\\documents\\personal\\maker\\makertest\\solidaritygrid.api\\middleware\\apikeymiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{573C7E83-C649-51EC-81C5-EA362F0B6943}|MakerTest\\SolidarityGrid.Api\\SolidarityGrid.Api.csproj|solutionrelative:makertest\\solidaritygrid.api\\middleware\\apikeymiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0777EDC-B2CB-EDFD-2A52-9D9E068991F6}|MakerTest\\SolidarityGrid.Application\\SolidarityGrid.Application.csproj|c:\\users\\dalbenjumea\\documents\\personal\\maker\\makertest\\solidaritygrid.application\\payments\\getpaymentstatushandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0777EDC-B2CB-EDFD-2A52-9D9E068991F6}|MakerTest\\SolidarityGrid.Application\\SolidarityGrid.Application.csproj|solutionrelative:makertest\\solidaritygrid.application\\payments\\getpaymentstatushandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0777EDC-B2CB-EDFD-2A52-9D9E068991F6}|MakerTest\\SolidarityGrid.Application\\SolidarityGrid.Application.csproj|c:\\users\\dalbenjumea\\documents\\personal\\maker\\makertest\\solidaritygrid.application\\interfaces\\repository\\ipaymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0777EDC-B2CB-EDFD-2A52-9D9E068991F6}|MakerTest\\SolidarityGrid.Application\\SolidarityGrid.Application.csproj|solutionrelative:makertest\\solidaritygrid.application\\interfaces\\repository\\ipaymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0777EDC-B2CB-EDFD-2A52-9D9E068991F6}|MakerTest\\SolidarityGrid.Application\\SolidarityGrid.Application.csproj|c:\\users\\dalbenjumea\\documents\\personal\\maker\\makertest\\solidaritygrid.application\\contracts\\paymentcontracts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0777EDC-B2CB-EDFD-2A52-9D9E068991F6}|MakerTest\\SolidarityGrid.Application\\SolidarityGrid.Application.csproj|solutionrelative:makertest\\solidaritygrid.application\\contracts\\paymentcontracts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE0D0B6-0231-7FAC-ABC0-9447B2CC1D3F}|MakerTest\\SolidarityGrid.Infrastructure\\SolidarityGrid.Infrastructure.csproj|c:\\users\\dalbenjumea\\documents\\personal\\maker\\makertest\\solidaritygrid.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE0D0B6-0231-7FAC-ABC0-9447B2CC1D3F}|MakerTest\\SolidarityGrid.Infrastructure\\SolidarityGrid.Infrastructure.csproj|solutionrelative:makertest\\solidaritygrid.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86185592-F829-821D-9233-DA1BA00D086D}|MakerTest{86185592-F829-821D-9233-DA1BA00D086D}|C:\\Users\\dalbenjumea\\Documents\\Personal\\Maker\\docker-compose.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}",
+      "RelativeMoniker": "D:0:0:{86185592-F829-821D-9233-DA1BA00D086D}|MakerTest{86185592-F829-821D-9233-DA1BA00D086D}|solutionrelative:docker-compose.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86185592-F829-821D-9233-DA1BA00D086D}|MakerTest{86185592-F829-821D-9233-DA1BA00D086D}|C:\\Users\\dalbenjumea\\Documents\\Personal\\Maker\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{86185592-F829-821D-9233-DA1BA00D086D}|MakerTest{86185592-F829-821D-9233-DA1BA00D086D}|solutionrelative:Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{573C7E83-C649-51EC-81C5-EA362F0B6943}|MakerTest\\SolidarityGrid.Api\\SolidarityGrid.Api.csproj|c:\\users\\dalbenjumea\\documents\\personal\\maker\\makertest\\solidaritygrid.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{573C7E83-C649-51EC-81C5-EA362F0B6943}|MakerTest\\SolidarityGrid.Api\\SolidarityGrid.Api.csproj|solutionrelative:makertest\\solidaritygrid.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86185592-F829-821D-9233-DA1BA00D086D}|MakerTest{86185592-F829-821D-9233-DA1BA00D086D}|C:\\Users\\dalbenjumea\\Documents\\Personal\\Maker\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{86185592-F829-821D-9233-DA1BA00D086D}|MakerTest{86185592-F829-821D-9233-DA1BA00D086D}|solutionrelative:.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{573C7E83-C649-51EC-81C5-EA362F0B6943}|MakerTest\\SolidarityGrid.Api\\SolidarityGrid.Api.csproj|c:\\users\\dalbenjumea\\documents\\personal\\maker\\makertest\\solidaritygrid.api\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{573C7E83-C649-51EC-81C5-EA362F0B6943}|MakerTest\\SolidarityGrid.Api\\SolidarityGrid.Api.csproj|solutionrelative:makertest\\solidaritygrid.api\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{573C7E83-C649-51EC-81C5-EA362F0B6943}|MakerTest\\SolidarityGrid.Api\\SolidarityGrid.Api.csproj|c:\\users\\dalbenjumea\\documents\\personal\\maker\\makertest\\solidaritygrid.api\\options\\apiauthoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{573C7E83-C649-51EC-81C5-EA362F0B6943}|MakerTest\\SolidarityGrid.Api\\SolidarityGrid.Api.csproj|solutionrelative:makertest\\solidaritygrid.api\\options\\apiauthoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{573C7E83-C649-51EC-81C5-EA362F0B6943}|MakerTest\\SolidarityGrid.Api\\SolidarityGrid.Api.csproj|c:\\users\\dalbenjumea\\documents\\personal\\maker\\makertest\\solidaritygrid.api\\middleware\\peerauthmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{573C7E83-C649-51EC-81C5-EA362F0B6943}|MakerTest\\SolidarityGrid.Api\\SolidarityGrid.Api.csproj|solutionrelative:makertest\\solidaritygrid.api\\middleware\\peerauthmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE0D0B6-0231-7FAC-ABC0-9447B2CC1D3F}|MakerTest\\SolidarityGrid.Infrastructure\\SolidarityGrid.Infrastructure.csproj|c:\\users\\dalbenjumea\\documents\\personal\\maker\\makertest\\solidaritygrid.infrastructure\\nodeavailability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE0D0B6-0231-7FAC-ABC0-9447B2CC1D3F}|MakerTest\\SolidarityGrid.Infrastructure\\SolidarityGrid.Infrastructure.csproj|solutionrelative:makertest\\solidaritygrid.infrastructure\\nodeavailability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0777EDC-B2CB-EDFD-2A52-9D9E068991F6}|MakerTest\\SolidarityGrid.Application\\SolidarityGrid.Application.csproj|c:\\users\\dalbenjumea\\documents\\personal\\maker\\makertest\\solidaritygrid.application\\interfaces\\ipaymentprocessingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0777EDC-B2CB-EDFD-2A52-9D9E068991F6}|MakerTest\\SolidarityGrid.Application\\SolidarityGrid.Application.csproj|solutionrelative:makertest\\solidaritygrid.application\\interfaces\\ipaymentprocessingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0777EDC-B2CB-EDFD-2A52-9D9E068991F6}|MakerTest\\SolidarityGrid.Application\\SolidarityGrid.Application.csproj|c:\\users\\dalbenjumea\\documents\\personal\\maker\\makertest\\solidaritygrid.application\\interfaces\\inodeavailability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0777EDC-B2CB-EDFD-2A52-9D9E068991F6}|MakerTest\\SolidarityGrid.Application\\SolidarityGrid.Application.csproj|solutionrelative:makertest\\solidaritygrid.application\\interfaces\\inodeavailability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE0D0B6-0231-7FAC-ABC0-9447B2CC1D3F}|MakerTest\\SolidarityGrid.Infrastructure\\SolidarityGrid.Infrastructure.csproj|c:\\users\\dalbenjumea\\documents\\personal\\maker\\makertest\\solidaritygrid.infrastructure\\regional\\regionalclock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE0D0B6-0231-7FAC-ABC0-9447B2CC1D3F}|MakerTest\\SolidarityGrid.Infrastructure\\SolidarityGrid.Infrastructure.csproj|solutionrelative:makertest\\solidaritygrid.infrastructure\\regional\\regionalclock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE0D0B6-0231-7FAC-ABC0-9447B2CC1D3F}|MakerTest\\SolidarityGrid.Infrastructure\\SolidarityGrid.Infrastructure.csproj|c:\\users\\dalbenjumea\\documents\\personal\\maker\\makertest\\solidaritygrid.infrastructure\\options\\regionaloptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE0D0B6-0231-7FAC-ABC0-9447B2CC1D3F}|MakerTest\\SolidarityGrid.Infrastructure\\SolidarityGrid.Infrastructure.csproj|solutionrelative:makertest\\solidaritygrid.infrastructure\\options\\regionaloptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE0D0B6-0231-7FAC-ABC0-9447B2CC1D3F}|MakerTest\\SolidarityGrid.Infrastructure\\SolidarityGrid.Infrastructure.csproj|c:\\users\\dalbenjumea\\documents\\personal\\maker\\makertest\\solidaritygrid.infrastructure\\options\\meshoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE0D0B6-0231-7FAC-ABC0-9447B2CC1D3F}|MakerTest\\SolidarityGrid.Infrastructure\\SolidarityGrid.Infrastructure.csproj|solutionrelative:makertest\\solidaritygrid.infrastructure\\options\\meshoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE0D0B6-0231-7FAC-ABC0-9447B2CC1D3F}|MakerTest\\SolidarityGrid.Infrastructure\\SolidarityGrid.Infrastructure.csproj|c:\\users\\dalbenjumea\\documents\\personal\\maker\\makertest\\solidaritygrid.infrastructure\\mesh\\peerregistry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE0D0B6-0231-7FAC-ABC0-9447B2CC1D3F}|MakerTest\\SolidarityGrid.Infrastructure\\SolidarityGrid.Infrastructure.csproj|solutionrelative:makertest\\solidaritygrid.infrastructure\\mesh\\peerregistry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0777EDC-B2CB-EDFD-2A52-9D9E068991F6}|MakerTest\\SolidarityGrid.Application\\SolidarityGrid.Application.csproj|c:\\users\\dalbenjumea\\documents\\personal\\maker\\makertest\\solidaritygrid.application\\options\\paymentprocessingoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0777EDC-B2CB-EDFD-2A52-9D9E068991F6}|MakerTest\\SolidarityGrid.Application\\SolidarityGrid.Application.csproj|solutionrelative:makertest\\solidaritygrid.application\\options\\paymentprocessingoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0777EDC-B2CB-EDFD-2A52-9D9E068991F6}|MakerTest\\SolidarityGrid.Application\\SolidarityGrid.Application.csproj|c:\\users\\dalbenjumea\\documents\\personal\\maker\\makertest\\solidaritygrid.application\\payments\\acceptpaymenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0777EDC-B2CB-EDFD-2A52-9D9E068991F6}|MakerTest\\SolidarityGrid.Application\\SolidarityGrid.Application.csproj|solutionrelative:makertest\\solidaritygrid.application\\payments\\acceptpaymenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE0D0B6-0231-7FAC-ABC0-9447B2CC1D3F}|MakerTest\\SolidarityGrid.Infrastructure\\SolidarityGrid.Infrastructure.csproj|c:\\users\\dalbenjumea\\documents\\personal\\maker\\makertest\\solidaritygrid.infrastructure\\repository\\paymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE0D0B6-0231-7FAC-ABC0-9447B2CC1D3F}|MakerTest\\SolidarityGrid.Infrastructure\\SolidarityGrid.Infrastructure.csproj|solutionrelative:makertest\\solidaritygrid.infrastructure\\repository\\paymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0777EDC-B2CB-EDFD-2A52-9D9E068991F6}|MakerTest\\SolidarityGrid.Application\\SolidarityGrid.Application.csproj|c:\\users\\dalbenjumea\\documents\\personal\\maker\\makertest\\solidaritygrid.application\\interfaces\\iregionalclock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0777EDC-B2CB-EDFD-2A52-9D9E068991F6}|MakerTest\\SolidarityGrid.Application\\SolidarityGrid.Application.csproj|solutionrelative:makertest\\solidaritygrid.application\\interfaces\\iregionalclock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0777EDC-B2CB-EDFD-2A52-9D9E068991F6}|MakerTest\\SolidarityGrid.Application\\SolidarityGrid.Application.csproj|c:\\users\\dalbenjumea\\documents\\personal\\maker\\makertest\\solidaritygrid.application\\interfaces\\ipeerregistry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0777EDC-B2CB-EDFD-2A52-9D9E068991F6}|MakerTest\\SolidarityGrid.Application\\SolidarityGrid.Application.csproj|solutionrelative:makertest\\solidaritygrid.application\\interfaces\\ipeerregistry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE0D0B6-0231-7FAC-ABC0-9447B2CC1D3F}|MakerTest\\SolidarityGrid.Infrastructure\\SolidarityGrid.Infrastructure.csproj|c:\\users\\dalbenjumea\\documents\\personal\\maker\\makertest\\solidaritygrid.infrastructure\\database\\solidarygriddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE0D0B6-0231-7FAC-ABC0-9447B2CC1D3F}|MakerTest\\SolidarityGrid.Infrastructure\\SolidarityGrid.Infrastructure.csproj|solutionrelative:makertest\\solidaritygrid.infrastructure\\database\\solidarygriddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE0D0B6-0231-7FAC-ABC0-9447B2CC1D3F}|MakerTest\\SolidarityGrid.Infrastructure\\SolidarityGrid.Infrastructure.csproj|c:\\users\\dalbenjumea\\documents\\personal\\maker\\makertest\\solidaritygrid.infrastructure\\entity\\paymententity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE0D0B6-0231-7FAC-ABC0-9447B2CC1D3F}|MakerTest\\SolidarityGrid.Infrastructure\\SolidarityGrid.Infrastructure.csproj|solutionrelative:makertest\\solidaritygrid.infrastructure\\entity\\paymententity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942E6AB1-3C22-ED8F-4BB7-2878489735A8}|MakerTest\\SolidarityGrid.Domain\\SolidarityGrid.Domain.csproj|c:\\users\\dalbenjumea\\documents\\personal\\maker\\makertest\\solidaritygrid.domain\\entity\\payments\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{942E6AB1-3C22-ED8F-4BB7-2878489735A8}|MakerTest\\SolidarityGrid.Domain\\SolidarityGrid.Domain.csproj|solutionrelative:makertest\\solidaritygrid.domain\\entity\\payments\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0777EDC-B2CB-EDFD-2A52-9D9E068991F6}|MakerTest\\SolidarityGrid.Application\\SolidarityGrid.Application.csproj|c:\\users\\dalbenjumea\\documents\\personal\\maker\\makertest\\solidaritygrid.application\\nodelog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0777EDC-B2CB-EDFD-2A52-9D9E068991F6}|MakerTest\\SolidarityGrid.Application\\SolidarityGrid.Application.csproj|solutionrelative:makertest\\solidaritygrid.application\\nodelog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE0D0B6-0231-7FAC-ABC0-9447B2CC1D3F}|MakerTest\\SolidarityGrid.Infrastructure\\SolidarityGrid.Infrastructure.csproj|c:\\users\\dalbenjumea\\documents\\personal\\maker\\makertest\\solidaritygrid.infrastructure\\mapper\\pymentmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE0D0B6-0231-7FAC-ABC0-9447B2CC1D3F}|MakerTest\\SolidarityGrid.Infrastructure\\SolidarityGrid.Infrastructure.csproj|solutionrelative:makertest\\solidaritygrid.infrastructure\\mapper\\pymentmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942E6AB1-3C22-ED8F-4BB7-2878489735A8}|MakerTest\\SolidarityGrid.Domain\\SolidarityGrid.Domain.csproj|c:\\users\\dalbenjumea\\documents\\personal\\maker\\makertest\\solidaritygrid.domain\\entity\\payments\\paymentstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{942E6AB1-3C22-ED8F-4BB7-2878489735A8}|MakerTest\\SolidarityGrid.Domain\\SolidarityGrid.Domain.csproj|solutionrelative:makertest\\solidaritygrid.domain\\entity\\payments\\paymentstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE0D0B6-0231-7FAC-ABC0-9447B2CC1D3F}|MakerTest\\SolidarityGrid.Infrastructure\\SolidarityGrid.Infrastructure.csproj|c:\\users\\dalbenjumea\\documents\\personal\\maker\\makertest\\solidaritygrid.infrastructure\\database\\databaseoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE0D0B6-0231-7FAC-ABC0-9447B2CC1D3F}|MakerTest\\SolidarityGrid.Infrastructure\\SolidarityGrid.Infrastructure.csproj|solutionrelative:makertest\\solidaritygrid.infrastructure\\database\\databaseoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReconciliationBackgroundService.cs",
+              "DocumentMoniker": "C:\\Users\\dalbenjumea\\Documents\\Personal\\Maker\\MakerTest\\SolidarityGrid.Infrastructure\\Mesh\\ReconciliationBackgroundService.cs",
+              "RelativeDocumentMoniker": "MakerTest\\SolidarityGrid.Infrastructure\\Mesh\\ReconciliationBackgroundService.cs",
+              "ToolTip": "C:\\Users\\dalbenjumea\\Documents\\Personal\\Maker\\MakerTest\\SolidarityGrid.Infrastructure\\Mesh\\ReconciliationBackgroundService.cs",
+              "RelativeToolTip": "MakerTest\\SolidarityGrid.Infrastructure\\Mesh\\ReconciliationBackgroundService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwA4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T00:52:18.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetPaymentStatusHandler.cs",
+              "DocumentMoniker": "C:\\Users\\dalbenjumea\\Documents\\Personal\\Maker\\MakerTest\\SolidarityGrid.Application\\Payments\\GetPaymentStatusHandler.cs",
+              "RelativeDocumentMoniker": "MakerTest\\SolidarityGrid.Application\\Payments\\GetPaymentStatusHandler.cs",
+              "ToolTip": "C:\\Users\\dalbenjumea\\Documents\\Personal\\Maker\\MakerTest\\SolidarityGrid.Application\\Payments\\GetPaymentStatusHandler.cs",
+              "RelativeToolTip": "MakerTest\\SolidarityGrid.Application\\Payments\\GetPaymentStatusHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T00:40:44.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IPaymentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dalbenjumea\\Documents\\Personal\\Maker\\MakerTest\\SolidarityGrid.Application\\Interfaces\\Repository\\IPaymentRepository.cs",
+              "RelativeDocumentMoniker": "MakerTest\\SolidarityGrid.Application\\Interfaces\\Repository\\IPaymentRepository.cs",
+              "ToolTip": "C:\\Users\\dalbenjumea\\Documents\\Personal\\Maker\\MakerTest\\SolidarityGrid.Application\\Interfaces\\Repository\\IPaymentRepository.cs",
+              "RelativeToolTip": "MakerTest\\SolidarityGrid.Application\\Interfaces\\Repository\\IPaymentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T20:07:25.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\dalbenjumea\\Documents\\Personal\\Maker\\MakerTest\\SolidarityGrid.Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "MakerTest\\SolidarityGrid.Application\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\dalbenjumea\\Documents\\Personal\\Maker\\MakerTest\\SolidarityGrid.Application\\DependencyInjection.cs",
+              "RelativeToolTip": "MakerTest\\SolidarityGrid.Application\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T00:43:53.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApiKeyMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\dalbenjumea\\Documents\\Personal\\Maker\\MakerTest\\SolidarityGrid.Api\\Middleware\\ApiKeyMiddleware.cs",
+              "RelativeDocumentMoniker": "MakerTest\\SolidarityGrid.Api\\Middleware\\ApiKeyMiddleware.cs",
+              "ToolTip": "C:\\Users\\dalbenjumea\\Documents\\Personal\\Maker\\MakerTest\\SolidarityGrid.Api\\Middleware\\ApiKeyMiddleware.cs",
+              "RelativeToolTip": "MakerTest\\SolidarityGrid.Api\\Middleware\\ApiKeyMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T01:04:22.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HeartbeatBackgroundService.cs",
+              "DocumentMoniker": "C:\\Users\\dalbenjumea\\Documents\\Personal\\Maker\\MakerTest\\SolidarityGrid.Infrastructure\\Mesh\\HeartbeatBackgroundService.cs",
+              "RelativeDocumentMoniker": "MakerTest\\SolidarityGrid.Infrastructure\\Mesh\\HeartbeatBackgroundService.cs",
+              "ToolTip": "C:\\Users\\dalbenjumea\\Documents\\Personal\\Maker\\MakerTest\\SolidarityGrid.Infrastructure\\Mesh\\HeartbeatBackgroundService.cs",
+              "RelativeToolTip": "MakerTest\\SolidarityGrid.Infrastructure\\Mesh\\HeartbeatBackgroundService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAxwAkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T00:50:26.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dalbenjumea\\Documents\\Personal\\Maker\\MakerTest\\SolidarityGrid.Api\\Program.cs",
+              "RelativeDocumentMoniker": "MakerTest\\SolidarityGrid.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\dalbenjumea\\Documents\\Personal\\Maker\\MakerTest\\SolidarityGrid.Api\\Program.cs",
+              "RelativeToolTip": "MakerTest\\SolidarityGrid.Api\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAADwvzkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T01:08:28.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PaymentProcessingService.cs",
+              "DocumentMoniker": "C:\\Users\\dalbenjumea\\Documents\\Personal\\Maker\\MakerTest\\SolidarityGrid.Application\\Payments\\PaymentProcessingService.cs",
+              "RelativeDocumentMoniker": "MakerTest\\SolidarityGrid.Application\\Payments\\PaymentProcessingService.cs",
+              "ToolTip": "C:\\Users\\dalbenjumea\\Documents\\Personal\\Maker\\MakerTest\\SolidarityGrid.Application\\Payments\\PaymentProcessingService.cs",
+              "RelativeToolTip": "MakerTest\\SolidarityGrid.Application\\Payments\\PaymentProcessingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T22:31:02.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PaymentContracts.cs",
+              "DocumentMoniker": "C:\\Users\\dalbenjumea\\Documents\\Personal\\Maker\\MakerTest\\SolidarityGrid.Application\\Contracts\\PaymentContracts.cs",
+              "RelativeDocumentMoniker": "MakerTest\\SolidarityGrid.Application\\Contracts\\PaymentContracts.cs",
+              "ToolTip": "C:\\Users\\dalbenjumea\\Documents\\Personal\\Maker\\MakerTest\\SolidarityGrid.Application\\Contracts\\PaymentContracts.cs",
+              "RelativeToolTip": "MakerTest\\SolidarityGrid.Application\\Contracts\\PaymentContracts.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T00:31:45.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DatabaseInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\dalbenjumea\\Documents\\Personal\\Maker\\MakerTest\\SolidarityGrid.Infrastructure\\UpService\\DatabaseInitializer.cs",
+              "RelativeDocumentMoniker": "MakerTest\\SolidarityGrid.Infrastructure\\UpService\\DatabaseInitializer.cs",
+              "ToolTip": "C:\\Users\\dalbenjumea\\Documents\\Personal\\Maker\\MakerTest\\SolidarityGrid.Infrastructure\\UpService\\DatabaseInitializer.cs",
+              "RelativeToolTip": "MakerTest\\SolidarityGrid.Infrastructure\\UpService\\DatabaseInitializer.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAswB0AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T00:57:41.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\dalbenjumea\\Documents\\Personal\\Maker\\MakerTest\\SolidarityGrid.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "MakerTest\\SolidarityGrid.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\dalbenjumea\\Documents\\Personal\\Maker\\MakerTest\\SolidarityGrid.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "MakerTest\\SolidarityGrid.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAADwvy4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T01:00:04.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\dalbenjumea\\Documents\\Personal\\Maker\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\dalbenjumea\\Documents\\Personal\\Maker\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABYAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-07-09T01:10:46.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\dalbenjumea\\Documents\\Personal\\Maker\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\Users\\dalbenjumea\\Documents\\Personal\\Maker\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-07-09T01:11:22.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dalbenjumea\\Documents\\Personal\\Maker\\MakerTest\\SolidarityGrid.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "MakerTest\\SolidarityGrid.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\dalbenjumea\\Documents\\Personal\\Maker\\MakerTest\\SolidarityGrid.Api\\appsettings.json",
+              "RelativeToolTip": "MakerTest\\SolidarityGrid.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-09T01:06:34.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": ".dockerignore",
+              "DocumentMoniker": "C:\\Users\\dalbenjumea\\Documents\\Personal\\Maker\\.dockerignore",
+              "RelativeDocumentMoniker": ".dockerignore",
+              "ToolTip": "C:\\Users\\dalbenjumea\\Documents\\Personal\\Maker\\.dockerignore",
+              "RelativeToolTip": ".dockerignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-07-09T01:09:37.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\dalbenjumea\\Documents\\Personal\\Maker\\MakerTest\\SolidarityGrid.Api\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "MakerTest\\SolidarityGrid.Api\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\dalbenjumea\\Documents\\Personal\\Maker\\MakerTest\\SolidarityGrid.Api\\DependencyInjection.cs",
+              "RelativeToolTip": "MakerTest\\SolidarityGrid.Api\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T01:07:35.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ApiAuthOptions.cs",
+              "DocumentMoniker": "C:\\Users\\dalbenjumea\\Documents\\Personal\\Maker\\MakerTest\\SolidarityGrid.Api\\Options\\ApiAuthOptions.cs",
+              "RelativeDocumentMoniker": "MakerTest\\SolidarityGrid.Api\\Options\\ApiAuthOptions.cs",
+              "ToolTip": "C:\\Users\\dalbenjumea\\Documents\\Personal\\Maker\\MakerTest\\SolidarityGrid.Api\\Options\\ApiAuthOptions.cs",
+              "RelativeToolTip": "MakerTest\\SolidarityGrid.Api\\Options\\ApiAuthOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T01:05:51.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PeerAuthMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\dalbenjumea\\Documents\\Personal\\Maker\\MakerTest\\SolidarityGrid.Api\\Middleware\\PeerAuthMiddleware.cs",
+              "RelativeDocumentMoniker": "MakerTest\\SolidarityGrid.Api\\Middleware\\PeerAuthMiddleware.cs",
+              "ToolTip": "C:\\Users\\dalbenjumea\\Documents\\Personal\\Maker\\MakerTest\\SolidarityGrid.Api\\Middleware\\PeerAuthMiddleware.cs",
+              "RelativeToolTip": "MakerTest\\SolidarityGrid.Api\\Middleware\\PeerAuthMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T01:05:02.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "NodeAvailability.cs",
+              "DocumentMoniker": "C:\\Users\\dalbenjumea\\Documents\\Personal\\Maker\\MakerTest\\SolidarityGrid.Infrastructure\\NodeAvailability.cs",
+              "RelativeDocumentMoniker": "MakerTest\\SolidarityGrid.Infrastructure\\NodeAvailability.cs",
+              "ToolTip": "C:\\Users\\dalbenjumea\\Documents\\Personal\\Maker\\MakerTest\\SolidarityGrid.Infrastructure\\NodeAvailability.cs",
+              "RelativeToolTip": "MakerTest\\SolidarityGrid.Infrastructure\\NodeAvailability.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T01:02:09.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "RegionalClock.cs",
+              "DocumentMoniker": "C:\\Users\\dalbenjumea\\Documents\\Personal\\Maker\\MakerTest\\SolidarityGrid.Infrastructure\\Regional\\RegionalClock.cs",
+              "RelativeDocumentMoniker": "MakerTest\\SolidarityGrid.Infrastructure\\Regional\\RegionalClock.cs",
+              "ToolTip": "C:\\Users\\dalbenjumea\\Documents\\Personal\\Maker\\MakerTest\\SolidarityGrid.Infrastructure\\Regional\\RegionalClock.cs",
+              "RelativeToolTip": "MakerTest\\SolidarityGrid.Infrastructure\\Regional\\RegionalClock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T00:56:11.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RegionalOptions.cs",
+              "DocumentMoniker": "C:\\Users\\dalbenjumea\\Documents\\Personal\\Maker\\MakerTest\\SolidarityGrid.Infrastructure\\Options\\RegionalOptions.cs",
+              "RelativeDocumentMoniker": "MakerTest\\SolidarityGrid.Infrastructure\\Options\\RegionalOptions.cs",
+              "ToolTip": "C:\\Users\\dalbenjumea\\Documents\\Personal\\Maker\\MakerTest\\SolidarityGrid.Infrastructure\\Options\\RegionalOptions.cs",
+              "RelativeToolTip": "MakerTest\\SolidarityGrid.Infrastructure\\Options\\RegionalOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T00:54:53.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MeshOptions.cs",
+              "DocumentMoniker": "C:\\Users\\dalbenjumea\\Documents\\Personal\\Maker\\MakerTest\\SolidarityGrid.Infrastructure\\Options\\MeshOptions.cs",
+              "RelativeDocumentMoniker": "MakerTest\\SolidarityGrid.Infrastructure\\Options\\MeshOptions.cs",
+              "ToolTip": "C:\\Users\\dalbenjumea\\Documents\\Personal\\Maker\\MakerTest\\SolidarityGrid.Infrastructure\\Options\\MeshOptions.cs",
+              "RelativeToolTip": "MakerTest\\SolidarityGrid.Infrastructure\\Options\\MeshOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T00:53:35.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "INodeAvailability.cs",
+              "DocumentMoniker": "C:\\Users\\dalbenjumea\\Documents\\Personal\\Maker\\MakerTest\\SolidarityGrid.Application\\Interfaces\\INodeAvailability.cs",
+              "RelativeDocumentMoniker": "MakerTest\\SolidarityGrid.Application\\Interfaces\\INodeAvailability.cs",
+              "ToolTip": "C:\\Users\\dalbenjumea\\Documents\\Personal\\Maker\\MakerTest\\SolidarityGrid.Application\\Interfaces\\INodeAvailability.cs",
+              "RelativeToolTip": "MakerTest\\SolidarityGrid.Application\\Interfaces\\INodeAvailability.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T00:48:52.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IPaymentProcessingService.cs",
+              "DocumentMoniker": "C:\\Users\\dalbenjumea\\Documents\\Personal\\Maker\\MakerTest\\SolidarityGrid.Application\\Interfaces\\IPaymentProcessingService.cs",
+              "RelativeDocumentMoniker": "MakerTest\\SolidarityGrid.Application\\Interfaces\\IPaymentProcessingService.cs",
+              "ToolTip": "C:\\Users\\dalbenjumea\\Documents\\Personal\\Maker\\MakerTest\\SolidarityGrid.Application\\Interfaces\\IPaymentProcessingService.cs",
+              "RelativeToolTip": "MakerTest\\SolidarityGrid.Application\\Interfaces\\IPaymentProcessingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T00:35:50.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PeerRegistry.cs",
+              "DocumentMoniker": "C:\\Users\\dalbenjumea\\Documents\\Personal\\Maker\\MakerTest\\SolidarityGrid.Infrastructure\\Mesh\\PeerRegistry.cs",
+              "RelativeDocumentMoniker": "MakerTest\\SolidarityGrid.Infrastructure\\Mesh\\PeerRegistry.cs",
+              "ToolTip": "C:\\Users\\dalbenjumea\\Documents\\Personal\\Maker\\MakerTest\\SolidarityGrid.Infrastructure\\Mesh\\PeerRegistry.cs",
+              "RelativeToolTip": "MakerTest\\SolidarityGrid.Infrastructure\\Mesh\\PeerRegistry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T00:51:25.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AcceptPaymentHandler.cs",
+              "DocumentMoniker": "C:\\Users\\dalbenjumea\\Documents\\Personal\\Maker\\MakerTest\\SolidarityGrid.Application\\Payments\\AcceptPaymentHandler.cs",
+              "RelativeDocumentMoniker": "MakerTest\\SolidarityGrid.Application\\Payments\\AcceptPaymentHandler.cs",
+              "ToolTip": "C:\\Users\\dalbenjumea\\Documents\\Personal\\Maker\\MakerTest\\SolidarityGrid.Application\\Payments\\AcceptPaymentHandler.cs",
+              "RelativeToolTip": "MakerTest\\SolidarityGrid.Application\\Payments\\AcceptPaymentHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T00:33:02.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IRegionalClock.cs",
+              "DocumentMoniker": "C:\\Users\\dalbenjumea\\Documents\\Personal\\Maker\\MakerTest\\SolidarityGrid.Application\\Interfaces\\IRegionalClock.cs",
+              "RelativeDocumentMoniker": "MakerTest\\SolidarityGrid.Application\\Interfaces\\IRegionalClock.cs",
+              "ToolTip": "C:\\Users\\dalbenjumea\\Documents\\Personal\\Maker\\MakerTest\\SolidarityGrid.Application\\Interfaces\\IRegionalClock.cs",
+              "RelativeToolTip": "MakerTest\\SolidarityGrid.Application\\Interfaces\\IRegionalClock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T00:29:48.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IPeerRegistry.cs",
+              "DocumentMoniker": "C:\\Users\\dalbenjumea\\Documents\\Personal\\Maker\\MakerTest\\SolidarityGrid.Application\\Interfaces\\IPeerRegistry.cs",
+              "RelativeDocumentMoniker": "MakerTest\\SolidarityGrid.Application\\Interfaces\\IPeerRegistry.cs",
+              "ToolTip": "C:\\Users\\dalbenjumea\\Documents\\Personal\\Maker\\MakerTest\\SolidarityGrid.Application\\Interfaces\\IPeerRegistry.cs",
+              "RelativeToolTip": "MakerTest\\SolidarityGrid.Application\\Interfaces\\IPeerRegistry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T00:15:15.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "PaymentProcessingOptions.cs",
+              "DocumentMoniker": "C:\\Users\\dalbenjumea\\Documents\\Personal\\Maker\\MakerTest\\SolidarityGrid.Application\\Options\\PaymentProcessingOptions.cs",
+              "RelativeDocumentMoniker": "MakerTest\\SolidarityGrid.Application\\Options\\PaymentProcessingOptions.cs",
+              "ToolTip": "C:\\Users\\dalbenjumea\\Documents\\Personal\\Maker\\MakerTest\\SolidarityGrid.Application\\Options\\PaymentProcessingOptions.cs",
+              "RelativeToolTip": "MakerTest\\SolidarityGrid.Application\\Options\\PaymentProcessingOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T22:28:45.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "NodeLog.cs",
+              "DocumentMoniker": "C:\\Users\\dalbenjumea\\Documents\\Personal\\Maker\\MakerTest\\SolidarityGrid.Application\\NodeLog.cs",
+              "RelativeDocumentMoniker": "MakerTest\\SolidarityGrid.Application\\NodeLog.cs",
+              "ToolTip": "C:\\Users\\dalbenjumea\\Documents\\Personal\\Maker\\MakerTest\\SolidarityGrid.Application\\NodeLog.cs",
+              "RelativeToolTip": "MakerTest\\SolidarityGrid.Application\\NodeLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T23:31:52.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "PymentMapper.cs",
+              "DocumentMoniker": "C:\\Users\\dalbenjumea\\Documents\\Personal\\Maker\\MakerTest\\SolidarityGrid.Infrastructure\\Mapper\\PymentMapper.cs",
+              "RelativeDocumentMoniker": "MakerTest\\SolidarityGrid.Infrastructure\\Mapper\\PymentMapper.cs",
+              "ToolTip": "C:\\Users\\dalbenjumea\\Documents\\Personal\\Maker\\MakerTest\\SolidarityGrid.Infrastructure\\Mapper\\PymentMapper.cs",
+              "RelativeToolTip": "MakerTest\\SolidarityGrid.Infrastructure\\Mapper\\PymentMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T21:15:53.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "PaymentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dalbenjumea\\Documents\\Personal\\Maker\\MakerTest\\SolidarityGrid.Infrastructure\\Repository\\PaymentRepository.cs",
+              "RelativeDocumentMoniker": "MakerTest\\SolidarityGrid.Infrastructure\\Repository\\PaymentRepository.cs",
+              "ToolTip": "C:\\Users\\dalbenjumea\\Documents\\Personal\\Maker\\MakerTest\\SolidarityGrid.Infrastructure\\Repository\\PaymentRepository.cs",
+              "RelativeToolTip": "MakerTest\\SolidarityGrid.Infrastructure\\Repository\\PaymentRepository.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwCsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T20:49:18.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "SolidaryGridDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\dalbenjumea\\Documents\\Personal\\Maker\\MakerTest\\SolidarityGrid.Infrastructure\\Database\\SolidaryGridDBContext.cs",
+              "RelativeDocumentMoniker": "MakerTest\\SolidarityGrid.Infrastructure\\Database\\SolidaryGridDBContext.cs",
+              "ToolTip": "C:\\Users\\dalbenjumea\\Documents\\Personal\\Maker\\MakerTest\\SolidarityGrid.Infrastructure\\Database\\SolidaryGridDBContext.cs",
+              "RelativeToolTip": "MakerTest\\SolidarityGrid.Infrastructure\\Database\\SolidaryGridDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T20:25:39.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1813907708:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:580170882:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "PaymentEntity.cs",
+              "DocumentMoniker": "C:\\Users\\dalbenjumea\\Documents\\Personal\\Maker\\MakerTest\\SolidarityGrid.Infrastructure\\Entity\\PaymentEntity.cs",
+              "RelativeDocumentMoniker": "MakerTest\\SolidarityGrid.Infrastructure\\Entity\\PaymentEntity.cs",
+              "ToolTip": "C:\\Users\\dalbenjumea\\Documents\\Personal\\Maker\\MakerTest\\SolidarityGrid.Infrastructure\\Entity\\PaymentEntity.cs",
+              "RelativeToolTip": "MakerTest\\SolidarityGrid.Infrastructure\\Entity\\PaymentEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T20:32:22.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "PaymentStatus.cs",
+              "DocumentMoniker": "C:\\Users\\dalbenjumea\\Documents\\Personal\\Maker\\MakerTest\\SolidarityGrid.Domain\\Entity\\Payments\\PaymentStatus.cs",
+              "RelativeDocumentMoniker": "MakerTest\\SolidarityGrid.Domain\\Entity\\Payments\\PaymentStatus.cs",
+              "ToolTip": "C:\\Users\\dalbenjumea\\Documents\\Personal\\Maker\\MakerTest\\SolidarityGrid.Domain\\Entity\\Payments\\PaymentStatus.cs",
+              "RelativeToolTip": "MakerTest\\SolidarityGrid.Domain\\Entity\\Payments\\PaymentStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T19:42:06.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\dalbenjumea\\Documents\\Personal\\Maker\\MakerTest\\SolidarityGrid.Domain\\Entity\\Payments\\Payment.cs",
+              "RelativeDocumentMoniker": "MakerTest\\SolidarityGrid.Domain\\Entity\\Payments\\Payment.cs",
+              "ToolTip": "C:\\Users\\dalbenjumea\\Documents\\Personal\\Maker\\MakerTest\\SolidarityGrid.Domain\\Entity\\Payments\\Payment.cs",
+              "RelativeToolTip": "MakerTest\\SolidarityGrid.Domain\\Entity\\Payments\\Payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T19:39:30.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "DatabaseOptions.cs",
+              "DocumentMoniker": "C:\\Users\\dalbenjumea\\Documents\\Personal\\Maker\\MakerTest\\SolidarityGrid.Infrastructure\\Database\\DatabaseOptions.cs",
+              "RelativeDocumentMoniker": "MakerTest\\SolidarityGrid.Infrastructure\\Database\\DatabaseOptions.cs",
+              "ToolTip": "C:\\Users\\dalbenjumea\\Documents\\Personal\\Maker\\MakerTest\\SolidarityGrid.Infrastructure\\Database\\DatabaseOptions.cs",
+              "RelativeToolTip": "MakerTest\\SolidarityGrid.Infrastructure\\Database\\DatabaseOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T22:24:30.506Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
