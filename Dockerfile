@@ -1,6 +1,6 @@
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 WORKDIR /src
-COPY SolidarityGrid.sln ./
+COPY SolidarityGrid.slnx ./
 COPY MakerTest/SolidarityGrid.Domain/SolidarityGrid.Domain.csproj src/SolidarityGrid.Domain/
 COPY MakerTest/SolidarityGrid.Application/SolidarityGrid.Application.csproj src/SolidarityGrid.Application/
 COPY MakerTest/SolidarityGrid.Infrastructure/SolidarityGrid.Infrastructure.csproj src/SolidarityGrid.Infrastructure/
@@ -11,7 +11,7 @@ RUN dotnet publish src/SolidarityGrid.Api/SolidarityGrid.Api.csproj -c Release -
 
 FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS final
 WORKDIR /app
-ENV TZ=America/Bogota
+ENV TZ=America/Bogota 
 ENV LANG=es_CO.UTF-8
 ENV LC_ALL=es_CO.UTF-8
 ENV DOTNET_SYSTEM_GLOBALIZATION_INVARIANT=false

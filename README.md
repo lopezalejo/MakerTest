@@ -28,20 +28,20 @@ Pipeline completo:
 .\scripts\pipeline.ps1
 ```
 
-## API
+## API 
 
-Header requerido: `X-Api-Key: demo-api-key`
+Header requerido: `X-Api-Key: makertest-api-key`
 
 ```bash
 # Aceptar pago
 curl -X POST http://localhost:8081/pay \
   -H "Content-Type: application/json" \
-  -H "X-Api-Key: demo-api-key" \
+  -H "X-Api-Key: makertest-api-key" \
   -H "Idempotency-Key: TX-99" \
   -d '{"amount": 250.00}'
 
 # Consultar estado (cualquier nodo)
-curl http://localhost:8082/pay/TX-99 -H "X-Api-Key: demo-api-key"
+curl http://localhost:8082/pay/TX-99 -H "X-Api-Key: makertest-api-key"
 ```
 
 ## Arquitectura
