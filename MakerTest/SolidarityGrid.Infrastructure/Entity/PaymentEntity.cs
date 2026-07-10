@@ -13,6 +13,7 @@ namespace SolidarityGrid.Infrastructure.Entity
         public string? CompletedByNodeId { get; init; }
         public DateTime? CompletedAt { get; init; }
         public string? ResultMessage { get; init; }
+        public byte[] RowVersion { get; set; } = [];
         public DateTime? CreatedAt { get; set; }
     }
 }

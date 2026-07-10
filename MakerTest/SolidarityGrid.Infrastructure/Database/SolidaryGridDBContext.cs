@@ -14,11 +14,16 @@ namespace SolidarityGrid.Infrastructure.Database
             modelBuilder.Entity<PaymentEntity>(entity =>
             {
                 entity.ToTable("Payments");
-                entity.HasKey(e => e.TransactionId);
-                entity.Property(e => e.TransactionId).HasMaxLength(64);
-                entity.Property(e => e.PaymentAmount).HasColumnType("decimal(18,2)");
-                entity.Property(e => e.Status).HasColumnType("tinyint");
-                entity.Property(e => e.CreatedAt).HasDefaultValueSql("GETDATE()");
+                entity.HasKey(x => x.TransactionId);
+                entity.Property(x => x.TransactionId).HasMaxLength(64);
+                entity.Property(x => x.PaymentAmount).HasColumnType("decimal(18,2)");
+                entity.Property(x => x.Status).HasColumnType("tinyint");
+                entity.Property(x => x.OwnerNodeId).HasMaxLength(32);
+                entity.Property(x => x.CompletedByNodeId).HasMaxLength(32);
+                entity.Property(x => x.ResultMessage).HasMaxLength(500);
+                entity.Property(x => x.RowVersion).IsRowVersion();
+                entity.HasIndex(x => new { x.OwnerNodeId, x.Status }).HasDatabaseName("IX_Payments_Owner_Status");
+                entity.HasIndex(x => new { x.Status, x.LeaseUntil }).HasDatabaseName("IX_Payments_Status_Lease");
             });
         }
     }

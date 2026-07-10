@@ -4,7 +4,7 @@ param(
 )
 
 $ErrorActionPreference = "Stop"
-$apiKey = "demo-api-key"
+$apiKey = "makertest-api-key"
 $txId = "TX-DEMO-$(Get-Date -Format 'yyyyMMddHHmmss')"
 $hdr = @{ "X-Api-Key" = $apiKey; "Idempotency-Key" = $txId }
 
